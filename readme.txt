@@ -1,7 +1,8 @@
 === Legacy Widgets in Block Editor ===
 Contributors: RavanH
 Tags: legacy widget, classic widget, block editor
-Requires at least: 5.O
+License: GPLv2 or later
+Requires at least: 5.8.0
 Requires PHP: 5.6
 Tested up to: 7.2
 Stable tag: 1.0.0
